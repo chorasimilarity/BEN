@@ -1,4 +1,4 @@
 BEN
 ===
 
-work on the symplectic Brezis-Ekeland-Nayroles principle
+This is the repository for the work on the symplectic Brezis-Ekeland-Nayroles principle.
